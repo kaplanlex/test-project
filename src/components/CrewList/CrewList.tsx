@@ -14,7 +14,7 @@ export const CrewList: FC<ICrewListProps> = ({ crew }) => {
           <CrewMember key={name} name={name} />
         ))}
       </div>
-      <p className={styles.total}>Total amount: {crew.length} people</p>
+      <p className={styles.total}>Total amount: {crew.length} people on ISS</p>
     </div>
   );
 };

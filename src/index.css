@@ -14,7 +14,7 @@
 }
 
 body {
-  display: flex;
+  background-color: #ffffff;
 }
 
 @media (prefers-color-scheme: light) {
