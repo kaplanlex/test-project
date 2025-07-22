@@ -1,0 +1,27 @@
+#root {
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.container-app {
+  display: flex;
+  width: 100%;
+}
+
+.location-box {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.time-and-crew-box {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
