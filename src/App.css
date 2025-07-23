@@ -21,3 +21,11 @@
   display: flex;
   flex-direction: column;
 }
+@media (max-width: 1325px) {
+  .location-box {
+    width: 100%;
+  }
+  .container-app {
+    flex-direction: column;
+  }
+}

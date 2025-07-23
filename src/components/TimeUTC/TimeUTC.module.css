@@ -14,3 +14,8 @@
 .date {
   font-style: italic;
 }
+@media (max-width: 1325px) {
+  .container {
+    margin-left: 0px;
+  }
+}

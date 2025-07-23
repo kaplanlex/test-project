@@ -18,3 +18,8 @@
   font-weight: bold;
   text-align: center;
 }
+@media (max-width: 1325px) {
+  .wrapper {
+    margin-left: 0px;
+  }
+}
