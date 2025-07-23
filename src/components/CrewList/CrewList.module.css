@@ -1,25 +1,17 @@
 .wrapper {
   border: 1px solid #000;
-  border-radius: 8px;
-  padding: 12px;
-  font-family: Arial, sans-serif;
-  width: 100%;
-  margin-left: 20px;
 }
 
 .members {
   display: flex;
   flex-direction: column;
   gap: 8px;
-  margin-bottom: 12px;
+  padding: 12px;
+  border-bottom: 1px solid black;
 }
 
 .total {
   font-weight: bold;
   text-align: center;
-}
-@media (max-width: 1325px) {
-  .wrapper {
-    margin-left: 0px;
-  }
+  padding: 12px;
 }
